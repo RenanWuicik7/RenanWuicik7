@@ -10,5 +10,5 @@
 ![image](https://user-images.githubusercontent.com/113643260/190523005-1043c25c-de5c-49f0-b520-2866b038dfb0.png)
 
 ### Contato:
-[<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>](renan.wuicik@alura.com.br)
+<a href = "renan.wuicik@alura.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renan-cezar-wuicik-17461b244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
