@@ -4,8 +4,8 @@
 
 - Sou um programador fascinado por códigos, principalmente a área de front-end;
 - Aualmente trabalho no grupo Alura;
-- Sou um monitor da Escola Semente e no Fórum Ops;
-- Estou aqui e lá no fórum pronto para auxiliar-lhe com que for preciso, se precisar e tiver dúvidas entre em contato comigo no gmail, que irei lhe responder assim que possível. 
+- Sou um monitor da Escola Semente no Fórum Ops;
+- Estou aqui e lá no fórum pronto para auxiliar-lhe com que for preciso, se precisar e tiver dúvidas entre em contato comigo no gmail ou LinkedIn, que irei lhe responder assim que possível. 
 
 ![octocat-1671552493786](https://user-images.githubusercontent.com/113643260/208724006-87677bba-ce43-4385-a8e0-a3e2098edf10.png)
 
