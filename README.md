@@ -11,3 +11,4 @@
 
 ### Contato:
 [<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>](renan.wuicik@alura.com.br)
+[<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>](https://www.linkedin.com/in/renan-cezar-wuicik-17461b244/)
