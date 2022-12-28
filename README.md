@@ -10,8 +10,9 @@
 ![octocat-1671552493786](https://user-images.githubusercontent.com/113643260/208724006-87677bba-ce43-4385-a8e0-a3e2098edf10.png)
 
 ### Contato:
-[<a href = "mailto:contato@seu-usuário-aqui"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>](renan.wuicik@alura.com.br)
+<a href = "mailto:renan.wuicik@alura.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renan-cezar-wuicik-17461b244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://twitter.com/WuicikR7Alura"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 
 ## Minhas Estatísticas
 <div>
