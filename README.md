@@ -1,4 +1,4 @@
-# Olá eu sou o @RenanAlura7
+# Olá eu sou o @RenanWuicik7
 
 ## Sobre Mim:
 
