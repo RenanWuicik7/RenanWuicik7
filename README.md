@@ -7,7 +7,7 @@
 - Sou um monitor da Escola Semente no Fórum Ops;
 - Estou aqui e lá no fórum pronto para auxiliar-lhe com que for preciso, se precisar e tiver dúvidas entre em contato comigo no gmail ou LinkedIn, que irei lhe responder assim que possível. 
 
-![octocat-1671552493786](https://user-images.githubusercontent.com/113643260/208724006-87677bba-ce43-4385-a8e0-a3e2098edf10.png)
+<img src="https://user-images.githubusercontent.com/113643260/208724006-87677bba-ce43-4385-a8e0-a3e2098edf10.png" width="30%">
 
 ### Contato:
 <a href = "mailto:renan.wuicik@alura.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -30,3 +30,4 @@
 ![img](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![img](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
 ![img](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)
+![img](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
