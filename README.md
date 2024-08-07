@@ -8,7 +8,7 @@
 - Estou aqui para aprender mais sobre o mundo da tecnologia como um todo e para entender mais sobre mim mesmo e qual o meu papel como pessoa e profissional nesse mercado.
 - Se necessário entre em contato comigo no Gmail, LinkedIn, Instagram ou Twitter que irei lhe responder assim que possível.
 
-<img src="https://imgur.com/K5lK68n.png" width="27%" align="right">
+<img src="https://imgur.com/K5lK68n.png" width="27%" align="right" />
 
 ### Contatos:
 <a href ="mailto:renan.wuicik@alura.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
