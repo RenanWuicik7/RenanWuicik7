@@ -4,7 +4,7 @@
 
 - Sou uma pessoa fascinada pelo mundo da tecnologia, principalmente a área de front-end;
 - Aualmente trabalho no grupo Alura;
-- Sou um monitor na Escola Semente e sou um membro do time que atua no carinhosamente intitulado Fórum Ops, que é o fórum da Alura;
+- Atuo como Monitor do fórum, no time de Suporte Educacional na Start By Alura;
 - Estou aqui para aprender mais sobre o mundo da tecnologia como um todo e para entender mais sobre mim mesmo e qual o meu papel como pessoa e profissional nesse mercado.
 - Se necessário entre em contato comigo no Gmail, LinkedIn, Instagram ou Twitter que irei lhe responder assim que possível.
 
@@ -13,7 +13,7 @@
 ### Contatos:
 <a href ="mailto:renan.wuicik@alura.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renan-cezar-wuicik-17461b244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://twitter.com/WuicikR7Alura"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href = "https://twitter.com/R7Wuicik"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/r.c.wuicik/"><img src="https://img.shields.io/badge/Instagram-fa2d18?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## Minhas Estatísticas
