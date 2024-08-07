@@ -13,7 +13,7 @@
 ### Contatos:
 <a href ="mailto:renan.wuicik@alura.com.br"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/renan-cezar-wuicik-17461b244/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href = "https://twitter.com/R7Wuicik"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+<a href = "https://twitter.com/R7Wuicik"><img src="https://img.shields.io/badge/Twitter%20/%20X%20-16181c?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 <a href="https://www.instagram.com/r.c.wuicik/"><img src="https://img.shields.io/badge/Instagram-fa2d18?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 ## Minhas Estatísticas
